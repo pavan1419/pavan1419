@@ -26,7 +26,7 @@
 </a>
 <a href="https://www.linkedin.com/in/pavan-awagan-891476153/">
   <img align="left" alt="Pavan Awagan Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-<a href="#">
+<a href="https://meet-pavan.vercel.app/">
   <img align="left" alt="Meet-Pavan Vercel App" width="21px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" />
 </a>
 </a>
