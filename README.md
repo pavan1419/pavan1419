@@ -1,6 +1,5 @@
 ### Meet Pavan 👋
 
-
 <p>
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
@@ -18,18 +17,19 @@
 </ul>
 
 ### Connect with me :smiley:
+
 <a href="https://github.com/pavan1419">Github
-  <img align="left" alt="Pavan1419 Github" width="21px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" />
+<img align="left" alt="Pavan1419 Github" width="21px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" />
 </a>
-<a href="https://pin.it/SMX68VI">
-  <img align="left" alt="Pavan1419 Pintrest" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" />
+<a href="https://pin.it/SMX68VI">Pintrest
+<img align="left" alt="Pavan1419 Pintrest" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/pavan-awagan-891476153/">
-  <img align="left" alt="Pavan Awagan Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+<img align="left" alt="Pavan Awagan Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" /></a>
 <a href="https://meet-pavan.vercel.app/">
-  <img align="left" alt="Meet-Pavan Vercel App" width="21px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" />
+<img align="left" alt="Meet-Pavan Vercel App" width="21px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" />
 </a>
-</a>
+
 <!-- <a href="https://medium.com/@mail2vedj">
   <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a> -->
@@ -40,8 +40,6 @@
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
 <br/><br/>
-
-
 
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
 
