@@ -1,6 +1,5 @@
 ### Meet Pavan 👋
 
-
   <!-- <samp>
    Hello, I'm <a href="https://meet-pavan.vercel.app/" >Pavan Awagan</a>, a results-driven Full Stack Developer with expertise in .NET, C#, SQL, MVC, and ReactJS. I excel in web development and have knowledge in networking, cyber security, Linux, Bash programming, VMware, and cPanel. As an error solver and problem solver, I thrive on tackling challenges and delivering high-quality solutions. I have experience in developing a ReactJS web application, running a successful blog, and creating small Bash programs for security. I'm also ready to work in a Linux environment. With a passion for continuous learning and improvement, I am committed to staying up-to-date with the latest technologies and best practices. Let's work together to create innovative solutions that drive business success.
   </samp>
@@ -17,9 +16,9 @@
 ### Connect with me :smiley:
 
 <a href="https://github.com/pavan1419">
-<img align="left" alt="Pavan1419 Github" width="21px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" />Github
+<img align="left" alt="Pavan1419 Github" width="21px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" />
 </a>
-<a href="https://pin.it/SMX68VI">Pintrest
+<a href="https://pin.it/SMX68VI">
 <img align="left" alt="Pavan1419 Pintrest" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/pavan-awagan-891476153/">
