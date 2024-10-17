@@ -18,7 +18,7 @@
 <a href="https://github.com/pavan1419">
 <img align="left" alt="Pavan1419 Github" width="21px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" />
 </a>
-<a href="[https://pin.it/SMX68VI](https://www.pinterest.com/pinperfect1419/)">
+<a href="(https://www.pinterest.com/pinperfect1419/">
 <img align="left" alt="Pavan1419 Pintrest" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/pavan-awagan-891476153/">
