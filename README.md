@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![roadmap.sh](https://roadmap.sh/card/wide/66d5c2ac553501e3c3b44a45?variant=dark)](https://roadmap.sh)
+
+
+### 🐍 Snake eating my contribution graph
+![snake gif](https://github.com/pavan1419/pavan1419/raw/output/snake.svg)
