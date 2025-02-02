@@ -31,6 +31,8 @@
 </a><br/><br/>
 <p align="center">
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66d5c2ac553501e3c3b44a45?variant=dark)](https://roadmap.sh)
+
 <!--
 **pavan1419/pavan1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,6 +46,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 [![roadmap.sh](https://roadmap.sh/card/tall/66d5c2ac553501e3c3b44a45?variant=dark)](https://roadmap.sh)
 
 
