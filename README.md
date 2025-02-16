@@ -1,26 +1,114 @@
-### Pavan 👋
+Here's an updated and playful GitHub profile README for you, incorporating details from your resume and references from top GitHub profiles:
 
-Hello there! I'm **Pavan Awagan**, a passionate and results-driven Full Stack Developer who loves turning challenges into innovative solutions. With solid expertise in .NET, C#, SQL, MVC, and ReactJS, I blend creativity with technical prowess to build robust web applications. I'm equally comfortable navigating the intricacies of networking, cybersecurity, Linux, Bash programming, VMware, and cPanel. Whether it's debugging tricky code or designing sleek interfaces, I thrive on solving problems and making ideas come alive.
+---
 
-### What I'm Up To
-I'm constantly learning and evolving, and currently diving deeper into:
-- **ReactJS** <img align="left" alt="React" width="21px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
-- **Next.js** <img align="left" alt="Next.js" width="21px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
-- **Tailwind CSS** <img align="left" alt="Tailwind CSS" width="21px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" />
+# 👋 Hey there! I'm Pavan 🚀  
 
-### Let's Connect & Collaborate!
-I'm always excited to connect with fellow tech enthusiasts and collaborate on creative projects. Reach out to me through any of these channels:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-ff69b4?style=for-the-badge&logo=vercel)](https://pavan1419.vercel.app/)  
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Blogs-000?style=for-the-badge&logo=medium)](https://medium.com/@pavan1419)  
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-000?style=for-the-badge&logo=github)](https://github.com/pavan1419)  
+[![Roadmap](https://img.shields.io/badge/Roadmap.sh-Follow%20My%20Journey-orange?style=for-the-badge&logo=roadmap.sh)](https://roadmap.sh/u/pavan1419)  
 
-- [GitHub](https://github.com/pavan1419) <img align="left" alt="GitHub" width="21px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" />
-- [Pinterest](https://www.pinterest.com/pinperfect1419/) <img align="left" alt="Pinterest" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" />
-- [LinkedIn](https://www.linkedin.com/in/pavan-awagan-891476153/) <img align="left" alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-- [Vercel](https://meet-pavan.vercel.app/) <img align="left" alt="Vercel" width="21px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" />
-- [Quora](https://www.quora.com/profile/Pavan1419) <img align="left" alt="Quora" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
+### 🚀 About Me
+I'm **Pavan Awagan**, a passionate **Full Stack Developer** with expertise in the **MERN stack, .NET, C#, and SQL**. I love solving complex problems, optimizing applications, and working on **secure and scalable solutions**.  
 
-<br/><br/>
+🔥 **Things I Do:**  
+- Build cool **MERN** apps with blazing-fast performance.  
+- Solve real-world problems using **automation & scripting (Python, Bash).**  
+- Work on **networking & cybersecurity**, exploring **ethical hacking** and **cloud security**.  
+- Automate workflows with **Mendix, Alteryx, and Tableau**.  
 
+💡 **Fun Fact:** My code editor is 80% dark mode, 20% caffeine-powered. ☕  
+
+---
+
+### 🌱 Currently Learning:
+- **Next.js** ⚡  
+- **Cloud & DevOps** 🏗  
+- **AI-powered Development** 🤖  
+
+### 🔨 Tech Stack:
+💻 **Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+
+📦 **Databases & Cloud:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+
+🔧 **Tools & DevOps:**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+### 📌 Projects:
+#### 🚀 [ServEase (MERN Stack)](https://github.com/pavan1419/servEase)  
+🔹 **Full-stack authentication system with JWT & bcrypt.**  
+🔹 **Admin panel for managing users and analytics.**  
+🔹 **Responsive React UI with Chakra UI & animations.**  
+
+#### 🔗 [UrlShrink (URL Shortener)](https://github.com/pavan1419/urlshrink)  
+🔹 **Shortens long URLs with tracking & analytics.**  
+🔹 **Built using Express.js, MongoDB, and Nodemon.**  
+🔹 **Tracks clicks & user engagement in real-time.**  
+
+#### 🛡 [Be_Anonim (Automation for Privacy)](https://github.com/pavan1419/be_anonim)  
+🔹 **Automates security & privacy tasks using Python & Shell scripting.**  
+🔹 **Includes proxy management, MAC address changes, and data wiping.**  
+🔹 **Uses Tor, I2P, and Bleachbit for enhanced anonymity.**  
+
+---
+
+### 🎖 Certifications:
+✔ **Certified Ethical Hacker (EC-Council)**  
+✔ **CCNA (Networking)**  
+✔ **Mendix Rapid Developer**  
+
+---
+
+### 🌍 Let's Connect!
+🔗 **Portfolio:** [pavan1419.vercel.app](https://pavan1419.vercel.app/)  
+📖 **Medium Blogs:** [medium.com/@pavan1419](https://medium.com/@pavan1419)  
+📍 **Roadmap:** [roadmap.sh/u/pavan1419](https://roadmap.sh/u/pavan1419)  
+
+📧 **Reach out to me:**  
+[![Gmail](https://img.shields.io/badge/Email-Red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pavan01419@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-awagan-891476153/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan1419)  
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Pavan1419)  
+
+---
+
+### 🔥 GitHub Stats:
 <p align="center">
-Check out my learning journey and see what's on the horizon:
-[![roadmap.sh](https://roadmap.sh/card/wide/66d5c2ac553501e3c3b44a45?variant=dark)](https://roadmap.sh)
+  <img src="https://github-readme-stats.vercel.app/api?username=pavan1419&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan1419&layout=compact&theme=radical" height="180em"/>
 </p>
 
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pavan1419&theme=dracula&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🐍 Watch the Snake Eat My Contributions!
+<p align="center">
+  <img src="https://github.com/pavan1419/pavan1419/raw/output/snake.svg" />
+</p>
+
+---
+
+This README adds **creativity, structure, and interactivity** with badges, GitHub stats, and project highlights. Let me know if you want any refinements! 🚀
