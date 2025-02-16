@@ -73,4 +73,3 @@ I'm **Pavan Awagan**, a passionate **Full Stack Developer** with expertise in th
 
 ---
 
-[![pavan1419's GitHub | Languages Over Time](https://stats.quira.sh/pavan1419/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=pavan1419)
