@@ -6,7 +6,7 @@
 [![Roadmap](https://img.shields.io/badge/Roadmap.sh-Follow%20My%20Journey-orange?style=for-the-badge&logo=roadmap.sh)](https://roadmap.sh/u/pavan1419)  
 
 ### 🚀 About Me
-I'm **Pavan Awagan**, a passionate **Full Stack Developer** with expertise in the **MERN stack, .NET, C#, and SQL**. I love solving complex problems, optimizing applications, and working on **secure and scalable solutions**.  
+I'm **Pavan Awagan**, a passionate **Full Stack Developer** with expertise in the **MERN stack**. I love solving complex problems, optimizing applications, and working on **secure and scalable solutions**.  
 
 🔥 **Things I Do:**  
 - Build cool **MERN** apps with blazing-fast performance.  
