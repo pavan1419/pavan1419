@@ -4,6 +4,7 @@
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Blogs-000?style=for-the-badge&logo=medium)](https://medium.com/@pavan1419)  
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-000?style=for-the-badge&logo=github)](https://github.com/pavan1419)  
 [![Roadmap](https://img.shields.io/badge/Roadmap.sh-Follow%20My%20Journey-orange?style=for-the-badge&logo=roadmap.sh)](https://roadmap.sh/u/pavan1419)  
+[![Peerlist](https://github-readme-badge.peerlist.io/api/pavan419)](https://peerlist.io/pavan419)
 
 ### 🚀 About Me
 I'm **Pavan Awagan**, a passionate **Full Stack Developer** with expertise in the **MERN stack**. I love solving complex problems, optimizing applications, and working on **secure and scalable solutions**.  
