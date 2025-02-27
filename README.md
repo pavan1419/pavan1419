@@ -32,7 +32,6 @@ I'm **Pavan Awagan**, a passionate **Full Stack Developer** with expertise in th
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)  
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 📦 **Databases & Cloud:**  
